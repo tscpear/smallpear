@@ -2,43 +2,102 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67f580d7-06a6-4010-9363-b5f4eef253ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_3_0_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vimalselvam_testng_extentsreport_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_8_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/src/main/java/com/tester/extend/demo/ExtentTestNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/src/main/java/com/tester/extend/demo/TestMethodsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/src/main/resources/test1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter3/moco-runner-0.11.0-standalone.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter3/startup1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter3/startupGet.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter3/基本操作说明" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/Chapter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/Chapter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/sutie.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20170516.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/src/main/java/com/course/testng/BasicAnnotation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/src/main/java/com/course/testng/IgnoreTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/src/main/java/com/course/testng/groups/GroupsOnMethod.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/src/main/java/com/course/testng/suite/LoginTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/src/main/java/com/course/testng/suite/PayTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/src/main/java/com/course/testng/suite/SuiteConfig.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/startupWithCookie.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/startupWithHeader.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/startupWithRedirect.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter4/Chapter4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter4/src/main/java/com/course/httpclient/cookies/MyCookiesForGet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter4/src/main/java/com/course/httpclient/cookies/MyCookiesForPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter4/src/main/java/com/course/httpclient/demo/MyHttpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter4/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/Chapter5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/smallpear.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/smallpear.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/Chapter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/Chapter1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/BasicAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/IgnoreTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/groups/GroupsOnMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/suite/LoginTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/suite/PayTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/suite/SuiteConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/src/main/resources/sutie.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/src/main/resources/sutie.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/BasicAnnotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/target/classes/com/course/testng/BasicAnnotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/IgnoreTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/target/classes/com/course/testng/IgnoreTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/groups/GroupsOnMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/target/classes/com/course/testng/groups/GroupsOnMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/suite/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/target/classes/com/course/testng/suite/LoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/suite/PayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/target/classes/com/course/testng/suite/PayTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/course/testng/suite/SuiteConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/target/classes/com/course/testng/suite/SuiteConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter2/Chapter2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/Chapter2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Chapter/target/" />
     <ignored path="$PROJECT_DIR$/Chapter2/target/" />
+    <ignored path="$PROJECT_DIR$/Chapter4/target/" />
+    <ignored path="$PROJECT_DIR$/Chapter5/target/" />
+    <ignored path="$PROJECT_DIR$/Chapter1/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/demo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,103 +110,33 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter2/pom.xml">
+        <entry file="file://$PROJECT_DIR$/Chapter5/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter2/src/main/java/com/tester/extend/demo/TestMethodsDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#303#304#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter2/src/main/java/com/tester/extend/demo/ExtentTestNG.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="31" selection-start-column="31" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/IReporter.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/reporters/EmailableReporter.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter2/src/main/resources/test1.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter3/基本操作说明">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="75" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter3/startup1.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="13" column="7" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="13" selection-end-column="7" />
-            </state>
-          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter3/startupGet.json">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+            <state relative-caret-position="256">
+              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
             </state>
           </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        <entry file="file://$PROJECT_DIR$/demo/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="6" column="26" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="31" />
+            <state relative-caret-position="320">
+              <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="25" />
             </state>
           </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
     </leaf>
@@ -165,9 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chapter/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/Chapter2/pom.xml" />
         <option value="$PROJECT_DIR$/Chapter2/src/main/java/com/tester/extend/demo/TestMethodsDemo.java" />
         <option value="$PROJECT_DIR$/Chapter2/src/main/java/ExtentTestNG.java" />
         <option value="$PROJECT_DIR$/Chapter2/src/main/java/com/tester/extend/demo/ExtentTestNG.java" />
@@ -175,6 +161,18 @@
         <option value="$PROJECT_DIR$/Chapter3/基本操作说明" />
         <option value="$PROJECT_DIR$/Chapter3/startup1.json" />
         <option value="$PROJECT_DIR$/Chapter3/startupGet.json" />
+        <option value="$PROJECT_DIR$/Chapter3/startupWithHeader.json" />
+        <option value="$PROJECT_DIR$/Chapter3/startupWithRedirect.json" />
+        <option value="$PROJECT_DIR$/Chapter4/src/main/java/com/course/httpclient/demo/MyHttpClient.java" />
+        <option value="$PROJECT_DIR$/Chapter3/startupWithCookie.json" />
+        <option value="$PROJECT_DIR$/Chapter4/src/main/java/com/course/httpclient/cookies/MyCookiesForGet.java" />
+        <option value="$PROJECT_DIR$/Chapter4/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/Chapter/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter1/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter2/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter4/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter4/src/main/java/com/course/httpclient/cookies/MyCookiesForPost.java" />
       </list>
     </option>
   </component>
@@ -190,11 +188,15 @@
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,56 +204,32 @@
               <item name="smallpear" type="b2602c69:ProjectViewProjectNode" />
               <item name="smallpear" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="smallpear" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smallpear" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smallpear" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smallpear" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smallpear" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smallpear" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smallpear" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smallpear" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter2" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smallpear" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smallpear" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter3" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="F:/android-sdk/adt-bundle-windows-x86_64-20140702/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570626045810" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570786480187" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter4" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\workspace\smallpear\Chapter3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\workspace\smallpear\Chapter1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -266,30 +244,88 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.E:/workspace/smallpear/Chapter/src/main/resources/sutie.xml">
-    <configuration name="E:/workspace/smallpear/Chapter2/src/main/resources/test1.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.MyCookiesForPost.testPostMethod">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E:/workspace/smallpear/Chapter1/src/main/resources/sutie.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter1" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter1/src/main/resources/sutie.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyCookiesForPost.testPostMethod (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.httpclient.cookies.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.httpclient.cookies" />
+      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.cookies.MyCookiesForPost" />
+      <option name="METHOD_NAME" value="testPostMethod" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyCookiesForPost.testPostMethod (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.httpclient.cookies.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.httpclient.cookies" />
+      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.cookies.MyCookiesForPost" />
+      <option name="METHOD_NAME" value="testPostMethod" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyCookiesForPost.testPostMethod" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.httpclient.cookies.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.httpclient.cookies" />
+      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.cookies.MyCookiesForPost" />
+      <option name="METHOD_NAME" value="testPostMethod" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMethodsDemo" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter2" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter2/src/main/resources/test1.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E:/workspace/smallpear/Chapter/src/main/resources/sutie.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter/src/main/resources/sutie.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E:/workspace/smallpear/Chapter/target/classes/sutie.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter/target/classes/sutie.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tester.extend.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tester.extend.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.tester.extend.demo.TestMethodsDemo" />
       <properties />
       <listeners />
       <method v="2">
@@ -298,9 +334,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.E:/workspace/smallpear/Chapter/src/main/resources/sutie.xml" />
-        <item itemvalue="TestNG.E:/workspace/smallpear/Chapter2/src/main/resources/test1.xml" />
-        <item itemvalue="TestNG.E:/workspace/smallpear/Chapter/target/classes/sutie.xml" />
+        <item itemvalue="TestNG.MyCookiesForPost.testPostMethod" />
+        <item itemvalue="TestNG.MyCookiesForPost.testPostMethod (1)" />
+        <item itemvalue="TestNG.TestMethodsDemo" />
+        <item itemvalue="TestNG.E:/workspace/smallpear/Chapter1/src/main/resources/sutie.xml" />
+        <item itemvalue="TestNG.MyCookiesForPost.testPostMethod (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -318,37 +356,47 @@
       <workItem from="1570608622634" duration="7935000" />
       <workItem from="1570619746472" duration="707000" />
       <workItem from="1570620477342" duration="2289000" />
+      <workItem from="1570688252540" duration="7221000" />
+      <workItem from="1570697139091" duration="11354000" />
+      <workItem from="1570710872745" duration="1545000" />
+      <workItem from="1570783808140" duration="2469000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="E__workspace_smallpear_Chapter_target_classes_sutie_xml - 2019.10.08 at 18h 58m 46s.xml">
-      <configuration name="E:/workspace/smallpear/Chapter/target/classes/sutie.xml" configurationId="TestNG" />
+    <history-entry file="MyCookiesForPost_testGetCookeis - 2019.10.10 at 19h 24m 23s.xml">
+      <configuration name="MyCookiesForPost.testGetCookeis" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="E__workspace_smallpear_Chapter2_src_main_resources_test1_xml - 2019.10.08 at 19h 41m 46s.xml">
-      <configuration name="E:/workspace/smallpear/Chapter2/src/main/resources/test1.xml" configurationId="TestNG" />
+    <history-entry file="MyCookiesForPost_testPostMethod - 2019.10.10 at 19h 25m 02s.xml">
+      <configuration name="MyCookiesForPost.testPostMethod" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="E__workspace_smallpear_Chapter2_src_main_resources_test1_xml - 2019.10.08 at 20h 12m 33s.xml">
-      <configuration name="E:/workspace/smallpear/Chapter2/src/main/resources/test1.xml" configurationId="TestNG" />
+    <history-entry file="MyCookiesForPost_testPostMethod - 2019.10.10 at 19h 29m 30s.xml">
+      <configuration name="MyCookiesForPost.testPostMethod" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="E__workspace_smallpear_Chapter2_src_main_resources_test1_xml - 2019.10.08 at 20h 20m 10s.xml">
-      <configuration name="E:/workspace/smallpear/Chapter2/src/main/resources/test1.xml" configurationId="TestNG" />
+    <history-entry file="MyCookiesForPost_testPostMethod - 2019.10.10 at 19h 34m 26s.xml">
+      <configuration name="MyCookiesForPost.testPostMethod" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="E__workspace_smallpear_Chapter2_src_main_resources_test1_xml - 2019.10.08 at 20h 21m 48s.xml">
-      <configuration name="E:/workspace/smallpear/Chapter2/src/main/resources/test1.xml" configurationId="TestNG" />
+    <history-entry file="MyCookiesForPost_testPostMethod_(2) - 2019.10.10 at 19h 52m 42s.xml">
+      <configuration name="MyCookiesForPost.testPostMethod (2)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="E__workspace_smallpear_Chapter2_src_main_resources_test1_xml - 2019.10.08 at 20h 23m 23s.xml">
-      <configuration name="E:/workspace/smallpear/Chapter2/src/main/resources/test1.xml" configurationId="TestNG" />
+    <history-entry file="E__workspace_smallpear_Chapter1_src_main_resources_sutie_xml - 2019.10.10 at 20h 25m 13s.xml">
+      <configuration name="E:/workspace/smallpear/Chapter1/src/main/resources/sutie.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="E__workspace_smallpear_Chapter_src_main_resources_sutie_xml - 2019.10.09 at 16h 11m 17s.xml">
-      <configuration name="E:/workspace/smallpear/Chapter/src/main/resources/sutie.xml" configurationId="TestNG" />
+    <history-entry file="TestMethodsDemo - 2019.10.10 at 20h 50m 30s.xml">
+      <configuration name="TestMethodsDemo" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="E__workspace_smallpear_Chapter_src_main_resources_sutie_xml - 2019.10.09 at 19h 25m 00s.xml">
-      <configuration name="E:/workspace/smallpear/Chapter/src/main/resources/sutie.xml" configurationId="TestNG" />
+    <history-entry file="MyCookiesForPost_testPostMethod - 2019.10.10 at 20h 54m 41s.xml">
+      <configuration name="MyCookiesForPost.testPostMethod" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MyCookiesForPost_testPostMethod_(1) - 2019.10.10 at 20h 54m 56s.xml">
+      <configuration name="MyCookiesForPost.testPostMethod (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MyCookiesForPost_testPostMethod - 2019.10.10 at 20h 55m 46s.xml">
+      <configuration name="MyCookiesForPost.testPostMethod" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16901000" />
+    <option name="totallyTimeSpent" value="39490000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -362,8 +410,8 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49676377" visible="true" weight="0.25799572" />
-      <window_info id="Structure" order="1" sideWeight="0.50323623" side_tool="true" visible="true" weight="0.25799572" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7483731" visible="true" weight="0.16950959" />
+      <window_info id="Structure" order="1" sideWeight="0.2516269" side_tool="true" visible="true" weight="0.16950959" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -372,18 +420,19 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.22342733" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Duplicate detector" order="7" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="ConsoleMavenPlugin" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Spring" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -400,46 +449,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Chapter2/test-output/emailable-report.html" />
-    <entry file="file://$PROJECT_DIR$/Chapter/Chapter.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter2/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter2/src/main/java/com/tester/extend/demo/TestMethodsDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter2/src/main/java/com/tester/extend/demo/ExtentTestNG.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="31" selection-start-column="31" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/IReporter.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -461,34 +470,164 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    <entry file="file://$PROJECT_DIR$/Chapter3/startup1.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="31" />
+        <state relative-caret-position="208">
+          <caret line="13" column="7" selection-start-line="11" selection-start-column="6" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.1.2/httpclient-4.1.2.jar!/org/apache/http/client/HttpClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter3/startupWithRedirect.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter3/startupWithHeader.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter4/src/main/java/com/course/httpclient/demo/MyHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter4/src/main/java/com/course/httpclient/cookies/MyCookiesForGet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="40" selection-start-line="38" selection-start-column="8" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter3/startupGet.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="28" column="9" selection-start-line="26" selection-start-column="8" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter3/startupWithCookie.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter4/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter3/基本操作说明">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-column="75" />
+          <caret column="75" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter3/startup1.json">
+    <entry file="file://$PROJECT_DIR$/Chapter1/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="13" column="7" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="13" selection-end-column="7" />
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter1/Chapter1.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter2/src/main/java/com/tester/extend/demo/ExtentTestNG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter3/startupGet.json">
+    <entry file="file://$PROJECT_DIR$/Chapter2/src/main/java/com/tester/extend/demo/TestMethodsDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        <state relative-caret-position="64">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter4/src/main/java/com/course/httpclient/cookies/MyCookiesForPost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter4/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter5/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="25" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
   </component>
   <component name="masterDetails">
@@ -542,11 +681,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Chapter</last-edited>
+          <last-edited>Chapter5</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -554,7 +694,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
+          <last-edited>Maven: com.aventstack:extentreports:3.0.6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
